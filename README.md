@@ -80,3 +80,5 @@ Set text for title of toolbar:
 ```
     setTitle(String title)
 ```
+
+![Image](https://scontent.fsgn5-1.fna.fbcdn.net/v/t1.0-9/50431345_1466756066789189_7467136609322795008_n.jpg?_nc_cat=101&_nc_oc=AQlYQszytr19-gU5kObHgeqACAtBtXaZgcfukbGh_7Kaj8YBjDXLGN-1zyaDb3aGBTY&_nc_ht=scontent.fsgn5-1.fna&oh=a54c65b11a1d3e26e00147e534c59c36&oe=5CCD408A)
