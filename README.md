@@ -16,7 +16,7 @@ allprojects {
   
   ```
   dependencies {
-	        implementation 'com.github.dzungvu:dztoolbarlb:Tag'
+	        implementation 'com.github.dzungvu:dztoolbarlb:0.1.0'
 	}
   ```
 
